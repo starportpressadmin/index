@@ -3,7 +3,8 @@
    border: 1px solid #39ff14; /* neon green outline */
   backdrop-filter: blur(10px);
   transition: 0.3s ease;
-
+ background-color: #bcbcf2; /* lavender */
+}
 
 .card:hover {
   transform: translateY(-6px);
@@ -11,8 +12,5 @@
   transition: 0.3s ease;
 }
 
-.body {
-    background-color: #1a002b; /* dark purple */
-}
 
  
