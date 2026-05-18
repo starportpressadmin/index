@@ -1,18 +1,18 @@
 .card {
   background: rgba(255,255,255,0.05);
-  border: 1px solid #7df9ff;
+   border: 1px solid #39ff14; /* neon green outline */
   backdrop-filter: blur(10px);
   transition: 0.3s ease;
-  background-color: #1a002b; /* dark purple */
-}
+
 
 .card:hover {
   transform: translateY(-6px);
-   border: 1px solid #39ff14; /* neon green outline */
   box-shadow: 0 0 12px #39ff14;
   transition: 0.3s ease;
 }
 
-
+.body {
+    background-color: #1a002b; /* dark purple */
+}
 
  
