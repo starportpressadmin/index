@@ -3,21 +3,16 @@
   border: 1px solid #7df9ff;
   backdrop-filter: blur(10px);
   transition: 0.3s ease;
+  background-color: #1a002b; /* dark purple */
 }
 
 .card:hover {
   transform: translateY(-6px);
-  box-shadow: 0 0 20px #7df9ff;
-}
-/* PAGE BACKGROUND */
-body {
-  background-color: #1a002b; /* dark purple */
-}
-
-
-/* CARD HOVER EFFECT */
-.card:hover {
-  border: 1px solid #39ff14; /* neon green outline */
+   border: 1px solid #39ff14; /* neon green outline */
   box-shadow: 0 0 12px #39ff14;
   transition: 0.3s ease;
 }
+
+
+
+ 
